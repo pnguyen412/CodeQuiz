@@ -13,6 +13,10 @@
 
 ## Usage:
 - https://pnguyen412.github.io/CodeQuiz/
+ ![screenshot1](assets/images/ScreenshotMain.png)
+ ![screenshot1](assets/images/ScreenshotQuestion.png)
+ ![screenshot1](assets/images/ScreenshotEnd.png)
+ ![screenshot1](assets/images/ScreenshotHighScore.png)
   
    
 ## Collaborators:
