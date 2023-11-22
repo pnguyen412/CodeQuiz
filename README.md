@@ -1,5 +1,5 @@
 # CodeQuiz
-# password-gen
+
 
 ## Description
 - The main objective of this challenge was to create a timed quiz on JavaScript fundamentals that scores high scours so that the user, a bootcamp student can gauge their progress with their peers.
